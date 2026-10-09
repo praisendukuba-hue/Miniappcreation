@@ -1,6 +1,7 @@
 {
   "name": "clur-mini-backend",
   "version": "1.0.0",
+  "description": "Clur Mini App Engine",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
